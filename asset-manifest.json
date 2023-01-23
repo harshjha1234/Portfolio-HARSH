@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio-HARSH/static/css/main.91a9904d.css",
+    "main.js": "/Portfolio-HARSH/static/js/main.c3ff981c.js",
+    "static/media/avatar2.jpg": "/Portfolio-HARSH/static/media/avatar2.d98542a7d6fbe40b34e7.jpg",
+    "static/media/avatar3.jpg": "/Portfolio-HARSH/static/media/avatar3.f788cdcef4516cdf09c9.jpg",
+    "static/media/me-about.jpg": "/Portfolio-HARSH/static/media/me-about.1ed24eb6d5c1b39cf8c2.jpg",
+    "static/media/avatar4.jpg": "/Portfolio-HARSH/static/media/avatar4.d661e81d1a7ea3dc740c.jpg",
+    "static/media/portfolio1.jpg": "/Portfolio-HARSH/static/media/portfolio1.5c1ade64b15631d8c82a.jpg",
+    "static/media/me.jpg": "/Portfolio-HARSH/static/media/me.b98a479f11b7c25b1054.jpg",
+    "static/media/avatar1.jpg": "/Portfolio-HARSH/static/media/avatar1.269b737854abaf979d17.jpg",
+    "static/media/portfolio2.jpg": "/Portfolio-HARSH/static/media/portfolio2.79f8a66b2af56c437f56.jpg",
+    "static/media/portfolio5.jpg": "/Portfolio-HARSH/static/media/portfolio5.4d81fd38c0207087710b.jpg",
+    "static/media/cv.pdf": "/Portfolio-HARSH/static/media/cv.ab0112b5ad13dbfa6290.pdf",
+    "static/media/portfolio4.jpg": "/Portfolio-HARSH/static/media/portfolio4.7de15d68e1fe07d1a6bf.jpg",
+    "static/media/portfolio3.jpg": "/Portfolio-HARSH/static/media/portfolio3.a97bab192b4832339d0a.jpg",
+    "static/media/portfolio6.jpg": "/Portfolio-HARSH/static/media/portfolio6.97a4d6b52b355f3ecb59.jpg",
+    "static/media/bg-texture.png": "/Portfolio-HARSH/static/media/bg-texture.ae81808d78d6d7f3619a.png",
+    "index.html": "/Portfolio-HARSH/index.html",
+    "main.91a9904d.css.map": "/Portfolio-HARSH/static/css/main.91a9904d.css.map",
+    "main.c3ff981c.js.map": "/Portfolio-HARSH/static/js/main.c3ff981c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a9904d.css",
+    "static/js/main.c3ff981c.js"
+  ]
+}
